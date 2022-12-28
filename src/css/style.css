@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(0, 83, 159) !important;
+}
+
+.card {
+  border-radius: 0px;
+  border-width: 3px;
+  background-color: rgb(255,149,0) !important;
+}
+
+.card-header {
+  display: flex;
+  justify-content: center;
+  border: none;
+}
+
+.card-body {
+  border: none;
+}
+
+.card-footer {
+  border: none;
+}
